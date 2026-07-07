@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "python-data-structures",
+      "title": "Data Structures in Python",
+      "description": "Lists, dictionaries, sets, and tuples",
+      "path": "assignments/python-data-structures",
+      "dueDate": "2026-07-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
