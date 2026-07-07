@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "error-handling-debugging",
+      "title": "Error Handling & Debugging",
+      "description": "Learn to identify, handle, and fix errors in Python programs using try/except blocks and debugging techniques.",
+      "path": "assignments/error-handling-debugging",
+      "dueDate": "2026-07-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
